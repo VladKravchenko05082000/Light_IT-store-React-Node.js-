@@ -1,0 +1,18 @@
+.Header__logo{
+   text-decoration: none;
+   color: #000000;
+   text-transform: uppercase;
+   letter-spacing: 1.2px;
+   Size:18px;
+   line-height: 21px;
+}
+
+.Header{
+   background-color: #C4C4C4; 
+   display: flex;
+   justify-content: space-between;
+}
+
+.Header__list{
+   color: #000000;
+}
