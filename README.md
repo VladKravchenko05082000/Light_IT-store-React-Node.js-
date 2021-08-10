@@ -1,1 +1,1 @@
-# Light_IT-store-React-Node.js-
+Для запуска сервера ..\Ligth_IT-store\server npm run dev
